@@ -162,3 +162,9 @@ C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\bin\Debug\net9.0\runtimes\win\lib\
 C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\obj\Debug\net9.0\MINIMALAPI.sourcelink.json
+C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\obj\Debug\net9.0\MINIMALAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pedro\OneDrive\Documentos\MINIMALAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
